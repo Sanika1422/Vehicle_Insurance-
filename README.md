@@ -9,9 +9,9 @@ This project is a Streamlit web application for extracting text from documents u
 **Text Display** : Display extracted text to users for review.
 **Supported Formats** : Supports common image formats such as JPEG, PNG, etc.
 
-## Dependencies
+# Dependencies
 
-# Ensure you have the following dependencies installed:
+## Ensure you have the following dependencies installed:
 
 Python (3.x recommended)
 Streamlit
