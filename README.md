@@ -12,12 +12,12 @@ This project is a Streamlit web application for extracting text from documents u
 # Dependencies
 
 ## Ensure you have the following dependencies installed:
-
+```
 Python (3.x recommended)
 Streamlit
 pytesseract
 Other dependencies as listed in requirements.txt
-
+```
 ## Install dependencies using:
 ```
 bash
